@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Pages à ne pas indexer
+Disallow: /mentions-legales.html
+Disallow: /politique-confidentialite.html
+
+Sitemap: https://www.lepage-peinture.fr/sitemap.xml

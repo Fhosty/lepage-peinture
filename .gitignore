@@ -1,0 +1,10 @@
+﻿# Système
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Éditeurs
+*.bak
+*.tmp
+*~
+.vscode/
